@@ -140,7 +140,6 @@ footer {
   display: flex;
   justify-content: center;
   width: 50%;
-  border: 1px solid red;
   margin-top: 10px;
 }
 
@@ -243,10 +242,4 @@ background-color: white;
     align-self: center;
     justify-content: space-between;
   }
-  .descripciones {
-    
-  }
-.descripciones:hover {
-  
-}
 }
