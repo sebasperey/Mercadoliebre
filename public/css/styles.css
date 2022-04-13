@@ -82,7 +82,7 @@ footer {
   width: 40%;
   text-align: center;
   margin-bottom: 20px;
-  border: solid 1px red;
+ 
 }
 .descuentos {
   font-size: 16px;
@@ -91,7 +91,7 @@ footer {
   margin-bottom: 20px;
   list-style: none;
   width: 60%;
-  border: solid 1px red;
+
 }
 .descripciones {
   font-size: 16px;
@@ -113,7 +113,7 @@ footer {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: solid 1px red;
+ 
 }
 
 .separacion {
